@@ -1,0 +1,53 @@
+.wrapper{
+	margin: auto;
+    width: 60%;
+    height: 80%;
+    border: 3px solid #155994;
+    border-radius:  10px;
+    font-family:'calibri';
+    text-align:  center;
+    background-image: url("alpha-mini.png");
+    background-color: #155994;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.wrapper h1{
+    margin-bottom:  0;
+    color:  #FFF;
+    text-shadow:
+    -2px -2px 0 #EC9135,
+    2px -2px 0 #EC9135,
+    -2px 2px 0 #EC9135,
+    2px 2px 0 #EC9135;  
+}
+
+.wrapper h3{
+    margin-top:  0;
+    color:  #EC9135;
+    text-shadow:
+    -2px -2px 0 #155994,
+    2px -2px 0 #155994,
+    -2px 2px 0 #155994,
+    2px 2px 0 #155994;  
+}
+
+.wrapper a{
+    display: block;
+    background: #FFF;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 5px;
+    color: #EC9135;
+    text-decoration: none;
+    font-weight: 900;
+    border:  2px solid #EC9135;
+}
+
+.wrapper a:hover{
+    background: #EC9135;
+    color: #155994;
+    border:  2px solid #FFF;
+}
