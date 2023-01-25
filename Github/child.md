@@ -1,11 +1,11 @@
-## Domain Model
-![Domain Model](https://github.com/HU-SD-SV2Bezem-studenten-2223/fellswoop-groep-1/blob/main/docs/Domien%20model.png)
+## Child L
+![Child L](https://github.com/opasta/NSDSK/blob/main/Graphs/L.png)
   
-## Domain Model
-![Domain Model](https://github.com/HU-SD-SV2Bezem-studenten-2223/fellswoop-groep-1/blob/main/docs/Domien%20model.png)
+## Child D2
+![Child D2](https://github.com/opasta/NSDSK/blob/main/Graphs/D2.png)
   
-## Domain Model
-![Domain Model](https://github.com/HU-SD-SV2Bezem-studenten-2223/fellswoop-groep-1/blob/main/docs/Domien%20model.png)
+## DChild A
+![Child A](https://github.com/opasta/NSDSK/blob/main/Graphs/A.png)
   
-## Domain Model
-![Domain Model](https://github.com/HU-SD-SV2Bezem-studenten-2223/fellswoop-groep-1/blob/main/docs/Domien%20model.png)
+## Child D1
+![Child D1](https://github.com/opasta/NSDSK/blob/main/Graphs/D1.png)
