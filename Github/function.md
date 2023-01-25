@@ -1,5 +1,5 @@
 ## Non-verbal interaction function
-![Non-verbal interaction function](https://github.com/opasta/NSDSK/blob/main/Graphs/pin.png)
+![Non-verbal interaction function](https://github.com/opasta/NSDSK/blob/main/Graphs/pin2.png)
   
 ## Verbal interaction function
 ![Verbal interaction function](https://github.com/opasta/NSDSK/blob/main/Graphs/vin.png)
